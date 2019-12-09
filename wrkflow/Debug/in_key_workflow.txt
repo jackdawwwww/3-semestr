@@ -1,0 +1,7 @@
+desc
+1 = replace abracadabra cadabraabra
+2 = grep braab
+3 = sort
+5 = writefile out.txt
+csed
+1 -> 2 -> 3 -> 5

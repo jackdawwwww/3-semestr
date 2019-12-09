@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+﻿  workflow.vcxproj -> C:\Users\Admin\source\repos\wrkflow\Debug\workflow.exe
+=======
+﻿  Commands.cpp
+  Factory.cpp
+  Source.cpp
+  executor.cpp
+  Создание кода...
+C:\Users\Admin\source\repos\workflow\workflow\str_switch.h(48,105): warning C4267:  аргумент: преобразование из "size_t" в "const s_s::uchar"; возможна потеря данных
+  workflow.vcxproj -> C:\Users\Admin\source\repos\workflow\Debug\workflow.exe
+>>>>>>> ffe95a078f7cd3be62f64ce546ba251cbe744f7a

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Admin\source\repos\Project1\Debug\Sample-Test8.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="tse_test.memory_test" Duration="1" />
+    <TestDuration Test="tse_test.tr_set_ctor1_test" Duration="1" />
+    <TestDuration Test="tse_test.tr_set_ctor2_test" Duration="1" />
+    <TestDuration Test="tse_test.tr_set_ctor3_test" Duration="1" />
+    <TestDuration Test="tse_test.get_capacity_and_length_test" Duration="18" />
+    <TestDuration Test="tse_test.shrink_test" Duration="37" />
+    <TestDuration Test="tse_test.trim_test" Duration="85" />
+    <TestDuration Test="tse_test.type_test" Duration="20" />
+    <TestDuration Test="tse_test.push_pop_test" Duration="106" />
+    <TestDuration Test="tse_test.complete_trit_test" Duration="1" />
+    <TestDuration Test="tse_test.trit_and_test" Duration="4" />
+    <TestDuration Test="tse_test.trit_or_test" Duration="3" />
+    <TestDuration Test="tse_test._equal_test" Duration="6" />
+    <TestDuration Test="tse_test.op_not_eq_test" Duration="4" />
+    <TestDuration Test="tse_test.cardinality_test" Duration="6" />
+    <TestDuration Test="tse_test.map_test" Duration="13" />
+  </TestDurations>
+</GtaTestDurations>

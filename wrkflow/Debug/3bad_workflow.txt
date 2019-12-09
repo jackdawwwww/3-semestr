@@ -1,0 +1,7 @@
+desc
+15 = replace abracadabra cadabraabra
+23 = grep braab
+19 = readfile in.txt
+54 = writefile out.txt
+csed
+19 -> 1115 -> 2223 -> 36 -> 54

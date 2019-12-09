@@ -1,0 +1,6 @@
+desc
+1 = replace abracadabra cadabraabra
+2 = grep braab
+3 = sort
+csed
+1 -> 2 -> 3
