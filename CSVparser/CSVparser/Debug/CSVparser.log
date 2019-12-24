@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\CSVparser\CSVparser\CSVparser.h(112,24): warning C4244:  =: преобразование "std::streamoff" в "size_t", возможна потеря данных
+C:\Users\Admin\source\repos\CSVparser\CSVparser\CSVparser.h(108): message :  во время компиляции функции-члена класс шаблон "void CSVparser<int,std::string>::Iterator::readNextRow(std::ifstream &,char)"
+C:\Users\Admin\source\repos\CSVparser\CSVparser\CSVparser.h(130): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void CSVparser<int,std::string>::Iterator::readNextRow(std::ifstream &,char)"
+C:\Users\Admin\source\repos\CSVparser\CSVparser\Source.cpp(10): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "CSVparser<int,std::string>::Iterator"
+  CSVparser.vcxproj -> C:\Users\Admin\source\repos\CSVparser\Debug\CSVparser.exe
